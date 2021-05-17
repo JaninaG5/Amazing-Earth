@@ -81,7 +81,7 @@
         "sourceCopyrightUrl": "https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License"
       },
       "geometry": {
-        "type": "Point",
+        "type": "Point", 
         "coordinates": [
           142.591667,
           11.3743
